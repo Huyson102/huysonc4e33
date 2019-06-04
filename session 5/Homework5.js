@@ -33,7 +33,7 @@
 
 //E2:
 
-// let number = (a, b) => {
+// let number = (x, y) => {
 //     let tong = x + y;
 //     console.log(tong);
 // }
