@@ -139,7 +139,7 @@
 //        return false;
 //     };
 // }
-
+ // ~~ auto true
 //E11:
 
 // inside = is_inside([200, 120], [140, 60, 100, 200])
