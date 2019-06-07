@@ -5,7 +5,7 @@ let btnDemo = document.getElementById("btn-demo");
 let inputDemo = document.getElementById("demo-input");
 
 btnDemo.addEventListener("click",()=>{
-    inputDemo.value += href;
+    inputDemo.value += demo;
 })
 
 //E2:
