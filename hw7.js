@@ -1,7 +1,3 @@
-// let context = {
-//     users: null
-// }
-
 window.onload = async () => {
     let employeeData = await getData('http://dummy.restapiexample.com/api/v1/employees');
     await showInfo(employeeData);
